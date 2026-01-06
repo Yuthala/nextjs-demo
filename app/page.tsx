@@ -13,7 +13,7 @@ export default function Page() {
       <div className="flex justify-between items-center h-20 shrink-0 rounded-lg bg-lime-600 p-4 md:h-52">
         {/* {<AcmeLogo />} */}
 				<GreenPatoLogo/>
-				<div className="flex gap-x-8">
+				<div className="flex gap-x-10">
 						<CartIcon />
 						<UserIcon />
 				</div>
